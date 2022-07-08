@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Luis
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lchavez1&show_icons=true&icon_color=4ff6fa&theme=tokyonight&hide=issues&hide_border=true)
+(https://github-readme-stats.vercel.app/api?username=lchavez1&show_icons=true&icon_color=4ff6fa&theme=tokyonight&hide=issues&hide_border=true)
 
 - Full-Stack Dev 
 - Lic. Sistemas by University of Guanajuato.
