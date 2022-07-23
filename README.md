@@ -8,4 +8,4 @@
 - 🔭 I’m currently working on [@developers_community_flutter](https://github.com/lchavez1/developers_community_flutter).
 - 🌱 I’m currently learning Flutter.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lchavez1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lchavez1&hide=liquid&layout=compact&theme=tokyonight&hide_border=true)
