@@ -1,10 +1,19 @@
-## Hi there 👋 I'm Luis
+## **Hello there, I am Luis.**
+*Passionate about science and technology - :fa-rocket: :fa-flask:* 
+*B.S. Information Systems at University of Guanajuato* :fa-book:
+*Tech4GTO Ambassador* :fa-smile-o:
 
-- Full-Stack Dev 
-- Lic. Sistemas by University of Guanajuato.
-- Core team [Future Lab](https://github.com/futurelabmx), [Google Developer Student Club UGTO](https://github.com/GDSC-UG), [Tech4Gto](https://www.facebook.com/tech4gto/). 
-- 🔭 I’m currently working on [@developers_community_flutter](https://github.com/lchavez1/developers_community_flutter).
-- 🌱 I’m currently learning Flutter.
+**I am Full-Stack Web Developer**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lchavez1)
+
+> [![stack](https://raw.githubusercontent.com/lchavez1/lchavez1/main/stack.png "stack")](https://raw.githubusercontent.com/lchavez1/lchavez1/main/stack.png "stack")
+
+*I use technologies like Java, Spring Boot, Flutter, React JS, Javascript, HTML5, Mongo, MySQL, Git, Docker, Azure.*
+
+*You can see my most recent reporitory to learn about streams and lambda expressions with Java* [Stream_and_Lambda_Expressions
+](https://github.com/lchavez1/Stream_and_Lambda_Expressions "recent") .
+
+Also you can contact me on: Twitter:  [@luischavez_713](https://mobile.twitter.com/luischavez_713 "luischavez_713")
+
+
 
