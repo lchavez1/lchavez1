@@ -1,7 +1,7 @@
 ## **Hello there, I am Luis.**
-*Passionate about science and technology - :fa-rocket: :fa-flask:* 
-*B.S. Information Systems at University of Guanajuato* :fa-book:
-*Tech4GTO Ambassador* :fa-smile-o:
+*Passionate about science and technology* 
+*B.S. Information Systems at University of Guanajuato* 
+*Tech4GTO Ambassador* 
 
 **I am Full-Stack Web Developer**
 
