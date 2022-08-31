@@ -7,6 +7,8 @@
 
 **I am Full-Stack Web Developer**
 
+*This is my resume: https://proud-river-08214cb10.1.azurestaticapps.net/*
+
 
 > [![stack](https://raw.githubusercontent.com/lchavez1/lchavez1/main/stack.png "stack")](https://raw.githubusercontent.com/lchavez1/lchavez1/main/stack.png "stack")
 
