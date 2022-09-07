@@ -1,11 +1,11 @@
 ## **Hello there, I am Luis.**
-*Passionate about science and technology* 
+*Passionate about science and technology* 🚀
 
 *B.S. Information Systems at University of Guanajuato* 
 
 *Tech4GTO Ambassador* 
 
-**I am Full-Stack Web Developer**
+**I am Backend Enginner**
 
 *This is my resume: https://proud-river-08214cb10.1.azurestaticapps.net/*
 
@@ -19,5 +19,4 @@
 
 Also you can contact me on: Twitter:  [@luischavez_713](https://mobile.twitter.com/luischavez_713 "luischavez_713")
 
-
-
+Made with ❤️ by [Fer Chávez](https://github.com/lchavez1) 😊
