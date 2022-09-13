@@ -1,11 +1,11 @@
 ## **Hi there, I am Fer**
 **Passionate about science and technology** 🚀
 
-**B.S. Information Systems at University of Guanajuato** 
+**B.S. Information Systems at University of Guanajuato** 📕
 
-**Tech4GTO Ambassador and Backend Enginner**
+**Tech4GTO Ambassador and Backend Enginner** 💻
 
-**This is my resume: https://proud-river-08214cb10.1.azurestaticapps.net/**
+**This is my resume: https://proud-river-08214cb10.1.azurestaticapps.net/** 🙍
 
 <a href="https://github.com/lchavez1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lchavez1" height="200" />
