@@ -5,7 +5,7 @@
 
 **Tech4GTO Ambassador and Backend Enginner** 💻
 
-**This is my resume: https://proud-river-08214cb10.1.azurestaticapps.net/** 👨‍🔬
+**This is my resume: https://proud-river-08214cb10.1.azurestaticapps.net/** 🧑‍💻
 
 <a href="https://github.com/lchavez1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lchavez1" height="200" />
