@@ -1,22 +1,27 @@
-## **Hello there, I am Luis.**
-*Passionate about science and technology* 🚀
+## **Hi there, I am Fer**
+**Passionate about science and technology** 🚀
 
-*B.S. Information Systems at University of Guanajuato* 
+**B.S. Information Systems at University of Guanajuato** 
 
-*Tech4GTO Ambassador* 
+**Tech4GTO Ambassador and Backend Enginner**
 
-**I am Backend Enginner**
+**This is my resume: https://proud-river-08214cb10.1.azurestaticapps.net/**
 
-*This is my resume: https://proud-river-08214cb10.1.azurestaticapps.net/*
+<a href="https://github.com/lchavez1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lchavez1" height="200" />
+</a>  
 
 
-> [![stack](https://raw.githubusercontent.com/lchavez1/lchavez1/main/stack.png "stack")](https://raw.githubusercontent.com/lchavez1/lchavez1/main/stack.png "stack")
+**You can see here my most recent reporitories to learn about stream core (Java 8), lambda expressions, GA and more**
 
-*I use technologies like Java, Spring Boot, Flutter, React JS, Javascript, HTML5, Mongo, MySQL, Git, Docker, Azure.*
 
-*You can see my most recent reporitory to learn about streams and lambda expressions with Java* [stream_and_lambda_expressions
-](https://github.com/lchavez1/stream_and_lambda_expressions "recent") .
+<a href="https://github.com/lchavez1/stream_and_lambda_expressions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lchavez1&repo=stream_and_lambda_expressions" height="150" />
+</a>
+<a href="https://github.com/lchavez1/genetic_algorithm_java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lchavez1&repo=genetic_algorithm_java" height="150" />
+</a>
 
-Also you can contact me on: Twitter:  [@luischavez_713](https://mobile.twitter.com/luischavez_713 "luischavez_713")
+**Also you can contact me on: Twitter:  [@luischavez_713](https://mobile.twitter.com/luischavez_713 "luischavez_713")**
 
-Made with ❤️ by [Fer Chávez](https://github.com/lchavez1) 😊
+**Made with ❤️ by [Fer Chávez](https://github.com/lchavez1) 😊**
