@@ -1,9 +1,5 @@
-## **Hi there, I am Fer**
-**Passionate about science and technology** 🚀
-
+## Luis Chávez
 **Backend Enginner** 💻
-
-**This is my resume: https://proud-river-08214cb10.1.azurestaticapps.net/** 🧑‍💻
 
 **You can see here my most recent reporitories to learn about stream core (Java 8), lambda expressions, GA and more**
 
